@@ -11,6 +11,7 @@ const int Light = 2;
 const int LightTime = 1000;
 
 
+
 void setup()
 {
   pinMode(LEDPin, OUTPUT);  //sets LEDPin to output
