@@ -2,7 +2,7 @@
 //Sensores:
 // HC-SR505 PIR Motion Sensor Module:  when the device detects a living body or IR emitting things the output will be HIGH 
 // LM393 Optical Photosensitive LDR: When there is no light or the light intensity cannot reach the value, DO output is high level. 
-
+//
 #include <Arduino.h>
 
 int LEDPin = 0;          //assigns LED pin to 0 (P0)
